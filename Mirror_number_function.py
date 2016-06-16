@@ -1,5 +1,5 @@
 #! python3
-# Mirror_number_function.py - Function determines if a number is a mirror number
+# Mirror_number_function.py - Function determines if a number is a mirror number or not
 
 def mirror(num):
     """ Function to determine if a number is a mirror number or not"""
